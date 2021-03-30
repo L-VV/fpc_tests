@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="test.appsrv.console.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="31"/>
+        <CursorPos X="23" Y="42"/>
+        <UsageCount Value="24"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../test_class_fields.bak_2021_03_29/test.appsrv.console.lpr"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="test.appsrv.core.pas"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="33"/>
+        <CursorPos X="23" Y="43"/>
+        <UsageCount Value="12"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../dependencies/fpc_components/3rd_party/mORMot2/src/rest/mormot.rest.server.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2704"/>
+        <CursorPos X="10" Y="2713"/>
+        <UsageCount Value="11"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/opt/fpcupdeluxe/lazarus_trunk/fpcsrc/rtl/inc/astrings.inc"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="165"/>
+        <CursorPos Y="180"/>
+        <UsageCount Value="11"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="test.appsrv.core.pas"/>
+        <Caret Line="2"/>
+      </Position>
+      <Position>
+        <Filename Value="test.appsrv.console.lpr"/>
+        <Caret Line="4" Column="19"/>
+      </Position>
+      <Position>
+        <Filename Value="test.appsrv.console.lpr"/>
+        <Caret Line="3"/>
+      </Position>
+      <Position>
+        <Filename Value="test.appsrv.core.pas"/>
+        <Caret Line="50" Column="24" TopLine="36"/>
+      </Position>
+      <Position>
+        <Filename Value="test.appsrv.core.pas"/>
+      </Position>
+      <Position>
+        <Filename Value="test.appsrv.core.pas"/>
+        <Caret Line="169" Column="32" TopLine="160"/>
+      </Position>
+      <Position>
+        <Filename Value="test.appsrv.core.pas"/>
+        <Caret Line="198" TopLine="171"/>
+      </Position>
+      <Position>
+        <Filename Value="test.appsrv.core.pas"/>
+        <Caret Line="46" TopLine="13"/>
+      </Position>
+      <Position>
+        <Filename Value="test.appsrv.console.lpr"/>
+        <Caret Line="55" Column="31" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="test.appsrv.core.pas"/>
+        <Caret Line="11" Column="20"/>
+      </Position>
+      <Position>
+        <Filename Value="test.appsrv.console.lpr"/>
+        <Caret Line="15"/>
+      </Position>
+      <Position>
+        <Filename Value="test.appsrv.console.lpr"/>
+        <Caret Line="11"/>
+      </Position>
+      <Position>
+        <Filename Value="test.appsrv.console.lpr"/>
+        <Caret Line="39" Column="32" TopLine="25"/>
+      </Position>
+      <Position>
+        <Filename Value="test.appsrv.console.lpr"/>
+      </Position>
+      <Position>
+        <Filename Value="test.appsrv.console.lpr"/>
+        <Caret Line="40" Column="45" TopLine="25"/>
+      </Position>
+      <Position>
+        <Filename Value="test.appsrv.console.lpr"/>
+        <Caret Line="49" TopLine="41"/>
+      </Position>
+      <Position>
+        <Filename Value="test.appsrv.console.lpr"/>
+        <Caret Line="44" Column="49" TopLine="31"/>
+      </Position>
+      <Position>
+        <Filename Value="test.appsrv.console.lpr"/>
+        <Caret Line="40" Column="45" TopLine="25"/>
+      </Position>
+      <Position>
+        <Filename Value="test.appsrv.console.lpr"/>
+        <Caret Line="48" Column="37" TopLine="31"/>
+      </Position>
+      <Position>
+        <Filename Value="test.appsrv.console.lpr"/>
+        <Caret Line="12"/>
+      </Position>
+      <Position>
+        <Filename Value="test.appsrv.console.lpr"/>
+        <Caret Line="41" Column="45" TopLine="26"/>
+      </Position>
+      <Position>
+        <Filename Value="test.appsrv.console.lpr"/>
+        <Caret Line="42" Column="63" TopLine="22"/>
+      </Position>
+      <Position>
+        <Filename Value="test.appsrv.console.lpr"/>
+        <Caret Line="10"/>
+      </Position>
+      <Position>
+        <Filename Value="test.appsrv.core.pas"/>
+        <Caret Line="10" Column="3"/>
+      </Position>
+      <Position>
+        <Filename Value="test.appsrv.core.pas"/>
+        <Caret Line="18" Column="18" TopLine="6"/>
+      </Position>
+      <Position>
+        <Filename Value="test.appsrv.core.pas"/>
+        <Caret Line="10" Column="19"/>
+      </Position>
+      <Position>
+        <Filename Value="test.appsrv.core.pas"/>
+        <Caret Line="16" Column="20" TopLine="4"/>
+      </Position>
+      <Position>
+        <Filename Value="test.appsrv.core.pas"/>
+        <Caret Line="9"/>
+      </Position>
+      <Position>
+        <Filename Value="test.appsrv.core.pas"/>
+        <Caret Line="36" TopLine="27"/>
+      </Position>
+      <Position>
+        <Filename Value="test.appsrv.console.lpr"/>
+        <Caret Line="43" Column="3" TopLine="35"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="../dependencies/fpc_components/3rd_party/mORMot2/src/rest/mormot.rest.server.pas"/>
+        <Line Value="4498"/>
+      </Item>
+    </BreakPoints>
+  </Debugging>
+</CONFIG>
